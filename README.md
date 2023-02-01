@@ -1,4 +1,10 @@
-# Lyft-Trip-Data
-Lyft Trip Data
+This project taught me how to:
 
-This project is comprised of 10 tasks that i must complete correctly to ensure the proper query results. task 2 was a simple question so i put the answer to that task as a comment in the code.
+Retrieve data from tables using SELECT statement
+Examine the structure of tables (column names, primary keys)
+Join tables using LEFT JOIN and INNER JOIN
+Stack data from multiple tables
+Perform aggregate functions (average, count)
+Filter data using WHERE clause
+Sort data using ORDER BY clause
+Use CASE statements.
